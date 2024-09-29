@@ -7,4 +7,5 @@ Ceci est une application React qui permet de faire tourner une roulette et de s√
 git add README.md
 git commit -m "Ajout d'un fichier README"
 git push origin master
+npm run deploy
 
